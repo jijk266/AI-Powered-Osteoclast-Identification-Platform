@@ -1,0 +1,18 @@
+OCsDetector: AI-Powered Osteoclast Quantitative Analysis Software
+OCsDetector is an offline application developed based on the YOLOv8 instance segmentation model, designed for quantitative analysis of osteoclasts. It can be used conveniently without programming expertise.
+Core Features
+Automatically detect osteoclasts, perform cell counting and area ratio calculation, with a target detection accuracy (mAP@0.5) of 95.8%
+Supports both single-image and batch-image detection modes
+Automatically generates standardized visualized detection reports upon completion of analysis
+System Requirements
+Operating System: Windows 10/11 (64-bit)
+Hardware: NVIDIA GPU is recommended for optimal performance (it can also run without a GPU, but the detection speed will be reduced)
+Installation and Usage
+Download the latest version installer: OCsDetector_Setup_v1.0.exe
+Double-click the installer and follow the prompts to complete the installation
+After launching the software, select "Single Image Detection" or "Batch Image Detection" mode, import the osteoclast images to be analyzed, and the detection will start automatically. The report will be generated automatically upon completion.
+Version Updates
+v1.0 (Initial Release): Implements automated osteoclast detection, cell counting, area ratio calculation, and report generation functions
+Contact Us
+If you encounter any issues or have feature suggestions during use, you can contact us through the following methods:
+GitHub Repository: https://github.com/jijk266/AI-Powered-Osteoclast-Identification-Platform
